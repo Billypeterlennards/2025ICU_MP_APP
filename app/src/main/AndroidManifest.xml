@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme._2025ICU_MP_APP"
         tools:targetApi="31">
+
+        <activity android:name=".SignUp" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
